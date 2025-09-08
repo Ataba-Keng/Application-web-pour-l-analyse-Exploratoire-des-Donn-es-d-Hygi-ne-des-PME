@@ -1,0 +1,27 @@
+# Environnements virtuels
+venv/
+env/
+mon_env/
+*.pyc
+__pycache__/
+
+# Fichiers sensibles
+.env
+.secrets
+config.py
+
+# Système
+.DS_Store
+Thumbs.db
+
+# Streamlit
+.streamlit/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
