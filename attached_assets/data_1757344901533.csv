@@ -1,0 +1,18 @@
+﻿ID_entreprise,Localisation,Type _de_produit,Effectif_du_personnel,Existence_BPH,Existence_BPF,Existence_HACCP,Procedures_ecrites,Formation_du_personnel_en_hygiene,Hygiene_du_personnel,Hygiene_des_locaux,Stockage_des_matieres_premieres,Controle_qualite_regulier,Conformite_generale (%),Obstacle_technique,Obstacle_financier,Obstacle_organisationnel,Obstacle_humain,Autres_obstacles,Formation_reçue
+E1,Bè Arigo,Produits céréaliers,10 à 20,Oui,Non,Non,Non,Oui,Oui,Oui,Oui,Non,"",Oui,Oui,Oui,Non,Coût du matériel Manque de formation Inadéquation des locaux Absence de contrôle régulier par les autorités Autres,BPF
+E10,Adidogome,Produits condimentaires / Epices,20 à 30,Oui,Oui,Non,Oui,Oui,Oui,Oui,Oui,Oui,"",Oui,Oui,Oui,Oui,Inadéquation des locaux,"BPF, BPH"
+E11,Agoè Assiyéyé,Produits fruitiers transformés,20 à 30,Oui,Oui,Oui,Oui,Oui,Oui,Oui,Oui,Oui,"",Oui,Oui,Oui,Oui,Coût de matériel,"BPF, BPH, HACCP"
+E12,Agoè Téléssou,Produits fruitiers transformés,20 à 30,Oui,Oui,Oui,Oui,Oui,Oui,Inconnu,Inconnu,Inconnu,"",Inconnu,Inconnu,Inconnu,Oui,Inconnu,"BPF, BPH, HACCP"
+E13,Adidogomé,Produits fruitiers transformés,10 à 20,Oui,Oui,Non,Inconnu,Oui,Oui,Oui,Oui,Inconnu,"",Oui,Oui,Oui,Inconnu,Coût du matériel Manque de formation Inadéquation des locaux Absence de contrôle régulier par les autorités,"BPF, BPH, HACCP"
+E14,Agoè Assiyéyé,Produits laitiers,10 à 20,Oui,Non,Non,Non,Oui,Oui,Oui,Oui,Non,"",Oui,Oui,Oui,Non,Coût du matériel Manque de formation Inadéquation des locaux Absence de contrôle régulier par les autorités Autres,BPF
+E15,Avédji,Produits céréaliers,10 à 20,Oui,Oui,Non,Non,Oui,Oui,Oui,Oui,Oui,"",Oui,Oui,Non,Oui,Inadéquation des locaux,BPF
+E15,Hedranawoe,Produits boulanger,10 à 20,Oui,Oui,Non,Non,Oui,Oui,Oui,Oui,Oui,"",Oui,Oui,Non,Oui,Inadéquation des locaux,BPF
+E16,Adéticopé,Produits boulanger,10 à 20,Non,Non,Non,Non,Non,Non,Non,Oui,Non,"",Oui,Oui,Oui,Non,Inadéquation des locaux,Aucune
+E16,Togblékopé,Produits oléagineux,10 à 20,Non,Non,Non,Non,Non,Non,Non,Oui,Non,"",Oui,Oui,Oui,Non,Inadéquation des locaux,Aucune
+E3,Adidogomé Yokoè,Compléments alimentaires,10 à 20,Oui,Non,Non,Non,Oui,Oui,Oui,Oui,Non,"",Oui,Oui,Oui,Non,Coût du matériel Manque de formation Inadéquation des locaux Absence de contrôle régulier par les autorités,BPF
+E4,Attiegou,Produits carnés et charcuterie,10 à 20,Oui,Oui,Non,Oui,Oui,Oui,Oui,Oui,Oui,"",Oui,Oui,Oui,Oui,Inadéquation des locaux Absence de contrôle régulier par les autorités,"BPF, BPH, HACCP"
+E6,Tokoin,Produits maraîchers transformés,10 à 20,Oui,Oui,Non,Oui,Oui,Oui,Oui,Oui,Oui,"",Oui,Oui,Oui,Oui,Coût du matériel Absence de contrôle régulier par les autorités,"BPF, BPH, HACCP"
+E7,Totsi,Produits fruitiers transformés,10 à 20,Oui,Oui,Oui,Oui,Oui,Oui,Oui,Oui,Oui,"",Oui,Oui,Oui,Oui,Manque de formation Autres,"BPF, BPH, HACCP"
+E8,Agoè Fiovi,Produits fruitiers transformés,10 à 20,Oui,Non,Non,Non,Oui,Oui,Oui,Oui,Non,"",Oui,Oui,Oui,Non,Coût du matériel Manque de formation Inadéquation des locaux,BPF
+E9,Sanguera,Produits fruitiers transformés,10 à 20,Oui,Oui,Non,Inconnu,Oui,Oui,Oui,Oui,Inconnu,"",Oui,Oui,Oui,Inconnu,Coût du matériel Inadéquation des locaux,"BPF, BPH, HACCP"
+
